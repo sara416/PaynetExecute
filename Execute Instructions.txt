@@ -1,0 +1,4 @@
+Unzip Paynet.zip
+Update suite.xml if needed
+Click on ExecuteTest.bat
+Result in test-output folder post execution
